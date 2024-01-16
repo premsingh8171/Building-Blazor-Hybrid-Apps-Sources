@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\CoffeeBrowser.Wpf.styles.css",
+      "PackagePath": "staticwebassets\\CoffeeBrowser.Wpf.styles.css"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Dot NET MAUI APPS\\Dot NET MAUI Blazor Apps_\\CoffeeBrowser.Wpf\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.CoffeeBrowser.Wpf.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.build.CoffeeBrowser.Wpf.props",
+      "PackagePath": "build\\CoffeeBrowser.Wpf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.CoffeeBrowser.Wpf.props",
+      "PackagePath": "buildMultiTargeting\\CoffeeBrowser.Wpf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildTransitive.CoffeeBrowser.Wpf.props",
+      "PackagePath": "buildTransitive\\CoffeeBrowser.Wpf.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
